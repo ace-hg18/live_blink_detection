@@ -1,3 +1,2 @@
-# live_blink_detection
-
-a simple python code to detect blinks and headpose based on mediapipe library
+# eye distance from screen detection
+a code which gives the distance of the face from the screen using mediapipe library 
